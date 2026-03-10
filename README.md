@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Aniket Samanta
 
-<!--
-**Anikett-2310/Anikett-2310** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+B.Tech IT Student  
+Vardhaman College of Engineering
 
-Here are some ideas to get you started:
+## Interests
+Full Stack Development
+Cybersecurity
+AI Healthcare Systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+MediVault – Digital Medicine Lifecycle Management System
+
+## Skills
+C | Python | Java
+React | Node | MongoDB | Firebase
+
+## Contact
+Email: anikett2310@gmail.com
