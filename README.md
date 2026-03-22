@@ -12,7 +12,7 @@ AI Healthcare Systems
 MediVault – Digital Medicine Lifecycle Management System
 
 ## Skills
-C | Python | Java
+C | Python | Java  |
 AutoCAD | SQL  | Firebase
 
 ## Contact
