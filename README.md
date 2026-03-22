@@ -13,7 +13,7 @@ MediVault – Digital Medicine Lifecycle Management System
 
 ## Skills
 C | Python | Java
-React | Node | MongoDB | Firebase
+AutoCAD | SQL  | Firebase
 
 ## Contact
 Email: anikett2310@gmail.com
